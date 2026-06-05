@@ -23,7 +23,7 @@
 ## Hobby Projects
 
 - [qwen2api](https://github.com/map-A/qwen2api) ⭐35 — Rust-based Qwen Chat→API proxy
-- [A-stock-level1-dump](https://github.com/map-A/A-stock-level1-dump) ⭐92 — Real-time A-share market data pipeline in Rust
+- [A-stock-level1-dump](https://github.com/map-A/A-stock-level1-dump) ⭐180 — Real-time A-share market data pipeline in Rust
 - [sina-real-time](https://github.com/map-A/sina-real-time) ⭐44 — Sina Finance real-time data in Rust
 
 
